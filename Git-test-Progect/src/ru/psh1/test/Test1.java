@@ -12,7 +12,7 @@ public class Test1 {
 		l2 = JOptionPane.showInputDialog(null,"¬ведите второе число");
 		i = Integer.parseInt(l1);
 		k = Integer.parseInt(l2);
-		}catch(Exception e){JOptionPane.showMessageDialog(null, "¬ведите в поле число !!!");}
+		}catch(Exception e){JOptionPane.showMessageDialog(null, "¬ведите в поле число");}
 	}
 	
 	public void Scan(int a, int b){

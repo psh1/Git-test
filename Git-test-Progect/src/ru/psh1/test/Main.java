@@ -12,7 +12,7 @@ public class Main {
 	}
 
 	private static int count(int x) {
-		x = x + 1;
+		x++;
 	
 		return x;
 	}
